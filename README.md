@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full-stack web developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me @vladVararian on discord
+- 📫 How to reach me @vladVararian
 <!---
 
 vladVararian/vladVararian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
